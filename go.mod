@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p-pubsub-tracer
+module github.com/MultiverseChronicles/go-libp2p-pubsub-tracer
 
 go 1.23
 
