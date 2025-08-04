@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/libp2p/go-libp2p-core/host"
-	"github.com/libp2p/go-libp2p-core/network"
+	"github.com/MultiverseChronicles/go-libp2p-core/host"
+	"github.com/MultiverseChronicles/go-libp2p-core/network"
 
-	pubsub "github.com/libp2p/go-libp2p-pubsub"
-	pb "github.com/libp2p/go-libp2p-pubsub/pb"
+	pubsub "github.com/MultiverseChronicles/go-libp2p-pubsub"
+	pb "github.com/MultiverseChronicles/go-libp2p-pubsub/pb"
 
 	ggio "github.com/gogo/protobuf/io"
 	multierror "github.com/hashicorp/go-multierror"
