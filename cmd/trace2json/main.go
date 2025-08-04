@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	pb "github.com/libp2p/go-libp2p-pubsub/pb"
+	pb "github.com/MultiverseChronicles/go-libp2p-pubsub/pb"
 
 	ggio "github.com/gogo/protobuf/io"
 )
