@@ -11,8 +11,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/libp2p/go-libp2p-core/peer"
-	pb "github.com/libp2p/go-libp2p-pubsub/pb"
+	"github.com/MultiverseChronicles/go-libp2p-core/peer"
+	pb "github.com/MultiverseChronicles/go-libp2p-pubsub/pb"
 
 	ggio "github.com/gogo/protobuf/io"
 )
