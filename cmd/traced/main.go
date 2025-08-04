@@ -10,17 +10,17 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/libp2p/go-libp2p-core/crypto"
-	"github.com/libp2p/go-libp2p-core/peer"
-	"github.com/libp2p/go-libp2p-core/pnet"
+	"github.com/MultiverseChronicles/go-libp2p-core/crypto"
+	"github.com/MultiverseChronicles/go-libp2p-core/peer"
+	"github.com/MultiverseChronicles/go-libp2p-core/pnet"
 
-	libp2p "github.com/libp2p/go-libp2p"
-	noise "github.com/libp2p/go-libp2p-noise"
-	tls "github.com/libp2p/go-libp2p-tls"
+	libp2p "github.com/MultiverseChronicles/go-libp2p"
+	noise "github.com/MultiverseChronicles/go-libp2p-noise"
+	tls "github.com/MultiverseChronicles/go-libp2p-tls"
 
 	logging "github.com/ipfs/go-log"
 
-	"github.com/libp2p/go-libp2p-pubsub-tracer/traced"
+	"github.com/MultiverseChronicles/go-libp2p-pubsub-tracer/traced"
 )
 
 func main() {
